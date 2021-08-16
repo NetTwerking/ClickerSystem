@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "usendpacket.h": "c",
+        "opendefs.h": "c"
+    }
+}
